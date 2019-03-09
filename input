@@ -1,0 +1,39 @@
+welcome_1 : I'm sorry you're feeling sad, would you like to hear a joke?
+
+welcome_2 : I'm sorry you're feeling sad, would you like to hear the sad song?
+
+welcome_3 : I'm sorry you're feeling sad, would you like to play simon says?
+
+why : why?
+
+what : what?
+
+joke_1 : why did the banana go to the doctor?
+
+answer_1: Because it wasn't peeling well
+
+joke_2 : what is brown and sticky?
+
+answer_2: A stick
+
+joke_3 : what do you call a donkey with three legs?
+
+answer_3: a wonkey
+
+joke_4 : what do you call a train that sneezes? 
+
+answer_4: achoo_choo train
+ 
+joke_5 : why are pirates called pirates? 
+
+answer_5: because they ARRRR
+
+simon_1 : Simon says, waddle like a penguin
+
+simon_2 : simon says, spin like a helicopter
+
+simon_3 : simon says, give yourself a big hug
+
+simon_4 : simon says, act like a monkey
+
+good_job : You did a great job! Way to go!
