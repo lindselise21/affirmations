@@ -12,12 +12,14 @@ logging.getLogger("flask_ask").setLevel(logging.DEBUG)
 @ask.launch
 
 def affirmations():
+	
   WELCOME = (render_template('welcome_1'), render_template('welcome_2'), render_template('welcome_3'))
   welcome = random.choice(WELCOME)
+ 
   @ask.intent(YesIntent)
-  def operation_distraction():
+ 
+    def operation_distraction():
     if choice == (welcome_1):
-#not sure answer function will return specific joke
       def toddler_joke():
       JOKES = (render_template('joke_1'), render_template('joke_2), render_template('joke_3'), render_template('joke_4'))
       joke = random.choice(JOKES)
@@ -37,7 +39,7 @@ def affirmations():
 # welcome_2 = song.     
     elif choice == (welcome_2)
 	def sad_song():
-
+# welcome_2 = Simon
     elif choice == (welcome_3)
       def simon_says():
         SIMON = (render_template(simon_1), render_template(simon_2), render_template(simon_3), render_template(simon_4)
